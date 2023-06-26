@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inspiro_bot/static/css/main.18463c96.css",
+    "main.js": "/inspiro_bot/static/js/main.6670dd16.js",
+    "static/js/787.c1112931.chunk.js": "/inspiro_bot/static/js/787.c1112931.chunk.js",
+    "index.html": "/inspiro_bot/index.html",
+    "main.18463c96.css.map": "/inspiro_bot/static/css/main.18463c96.css.map",
+    "main.6670dd16.js.map": "/inspiro_bot/static/js/main.6670dd16.js.map",
+    "787.c1112931.chunk.js.map": "/inspiro_bot/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18463c96.css",
+    "static/js/main.6670dd16.js"
+  ]
+}
